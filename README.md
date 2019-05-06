@@ -1,9 +1,12 @@
 # CarND-Behavioral-Cloning-P3
-Starting files for the Udacity CarND Behavioral Cloning Project. Original instruction can be found in `README_Original.md`.
+Starting files for the Udacity CarND Behavioral Cloning Project. Original instruction can be found in `README_Original.md` .
 
 ## Behavior Cloning Project from Udacity's Nanodegree, Self-Driving Engineer
 
 ## Content
+
+### `README_Original.md`
+Instruction for the project.
 
 ### `model.py`
 -- Python File to train model
