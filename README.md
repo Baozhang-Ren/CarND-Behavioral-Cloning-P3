@@ -15,7 +15,7 @@ python model.py <data dir> <epochs> <batch_size>
 A `model.h5` will be saved as output
 
 ### `Behavior_Cloning.ipynb`
---- Detail Explaination of the Model
+--- Detail Explaination of `model.py`
 
 ### `drive.py`
 --- After `model.h5` is created, it can be used with drive.py using this command:
@@ -34,3 +34,8 @@ python drive.py model.h5 run1
 ```sh
 python video.py run1
 ```
+
+### Output Video
+<video width="320" height="240" controls>
+  <source src="out.mp4" type="video/mp4">
+</video>
