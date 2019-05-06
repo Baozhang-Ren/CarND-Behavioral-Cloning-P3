@@ -35,5 +35,3 @@ python drive.py model.h5 run1
 python video.py run1
 ```
 
-### Output Video
-<video src="./assets/output.mp4" width="320" height="200" controls preload></video>
